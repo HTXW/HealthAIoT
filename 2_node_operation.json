@@ -1,0 +1,278 @@
+[
+{
+        "system": "worker_2",
+        "stats": {
+            "cpu_utilization": 5.5,
+            "memory_usage_percent": 12.3,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2024-08-01 10:54:48"
+        }
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.0,
+            "memory_usage_percent": 12.1,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2024-08-01 10:55:34"
+        }
+    },
+    {
+        "system": "worker_2",
+        "stats": {
+            "cpu_utilization": 5.0,
+            "memory_usage_percent": 12.4,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2024-08-02 00:39:16"
+        }
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 5.0,
+            "memory_usage_percent": 12.3,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2024-08-02 00:47:44"
+        }
+    },
+    {
+        "system": "worker_2",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 12.1,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2024-08-02 00:48:33"
+        }
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.0,
+            "memory_usage_percent": 12.3,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.01
+            },
+            "timestamp": "2024-08-02 00:49:22"
+        }
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.0,
+            "memory_usage_percent": 12.3,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2024-08-03 12:14:02"
+        }
+    },
+    {
+        "system": "worker_2",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 12.3,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2024-08-03 12:22:08"
+        }
+    },
+    {
+        "system": "worker_2",
+        "stats": {
+            "cpu_utilization": 3.0,
+            "memory_usage_percent": 12.3,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2024-08-03 12:23:48"
+        }
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 12.3,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2024-08-03 12:24:58"
+        }
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 12.3,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2024-08-03 12:24:58"
+        }
+    },
+    {
+        "system": "worker_2",
+        "stats": {
+            "cpu_utilization": 5.0,
+            "memory_usage_percent": 13.1,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2024-08-03 12:27:58"
+        }
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 12.4,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2024-08-03 12:28:56"
+        }
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 12.4,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2024-08-03 12:31:30"
+        }
+    },
+    {
+        "system": "worker_2",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 12.4,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2024-08-03 12:32:04"
+        }
+    },
+    {
+        "system": "worker_2",
+        "stats": {
+            "cpu_utilization": 5.4,
+            "memory_usage_percent": 12.4,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2024-08-03 12:33:12"
+        }
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.0,
+            "memory_usage_percent": 12.4,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2024-08-03 12:34:03"
+        }
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 5.5,
+            "memory_usage_percent": 12.3,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.01,
+                "send_bandwidth_mbps": 0.01
+            },
+            "timestamp": "2024-08-04 00:15:45"
+        }
+    },
+    {
+        "system": "worker_2",
+        "stats": {
+            "cpu_utilization": 6.0,
+            "memory_usage_percent": 12.3,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2024-08-04 00:16:07"
+        }
+    },
+    {
+        "system": "worker_2",
+        "stats": {
+            "cpu_utilization": 1.5,
+            "memory_usage_percent": 12.4,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2024-08-04 00:17:13"
+        }
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 5.0,
+            "memory_usage_percent": 12.6,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2024-08-04 01:16:58"
+        }
+    },
+    {
+        "system": "worker_1",
+        "stats": {
+            "cpu_utilization": 4.5,
+            "memory_usage_percent": 12.6,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2024-08-04 01:17:32"
+        }
+    },
+    {
+        "system": "worker_2",
+        "stats": {
+            "cpu_utilization": 5.0,
+            "memory_usage_percent": 12.6,
+            "network_bandwidth": {
+                "recv_bandwidth_mbps": 0.0,
+                "send_bandwidth_mbps": 0.0
+            },
+            "timestamp": "2024-08-04 01:21:23"
+        }
+    }
+]

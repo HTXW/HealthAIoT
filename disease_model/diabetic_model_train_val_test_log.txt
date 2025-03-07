@@ -1,0 +1,800 @@
+
+Epoch 1/200.
+Epoch 1/200, Train Loss: 0.4053, Train Acc: 0.7668, Val Acc: 0.7376
+Best validation accuracy so far: 0.7376384735107422. Best epoch so far: 1.
+
+Epoch 2/200.
+Epoch 2/200, Train Loss: 0.4481, Train Acc: 0.7707, Val Acc: 0.7163
+Best validation accuracy so far: 0.7376384735107422. Best epoch so far: 1.
+
+Epoch 3/200.
+Epoch 3/200, Train Loss: 0.4884, Train Acc: 0.7747, Val Acc: 0.7248
+Best validation accuracy so far: 0.7376384735107422. Best epoch so far: 1.
+
+Epoch 4/200.
+Epoch 4/200, Train Loss: 0.5097, Train Acc: 0.7778, Val Acc: 0.7221
+Best validation accuracy so far: 0.7376384735107422. Best epoch so far: 1.
+
+Epoch 5/200.
+Epoch 5/200, Train Loss: 0.3907, Train Acc: 0.7780, Val Acc: 0.7160
+Best validation accuracy so far: 0.7376384735107422. Best epoch so far: 1.
+
+Epoch 6/200.
+Epoch 6/200, Train Loss: 0.4569, Train Acc: 0.7844, Val Acc: 0.7403
+Best validation accuracy so far: 0.7402755618095398. Best epoch so far: 6.
+
+Epoch 7/200.
+Epoch 7/200, Train Loss: 0.5169, Train Acc: 0.7858, Val Acc: 0.7307
+Best validation accuracy so far: 0.7402755618095398. Best epoch so far: 6.
+
+Epoch 8/200.
+Epoch 8/200, Train Loss: 0.4665, Train Acc: 0.7890, Val Acc: 0.7165
+Best validation accuracy so far: 0.7402755618095398. Best epoch so far: 6.
+
+Epoch 9/200.
+Epoch 9/200, Train Loss: 0.5071, Train Acc: 0.7881, Val Acc: 0.7133
+Best validation accuracy so far: 0.7402755618095398. Best epoch so far: 6.
+
+Epoch 10/200.
+Epoch 10/200, Train Loss: 0.4734, Train Acc: 0.7937, Val Acc: 0.7332
+Best validation accuracy so far: 0.7402755618095398. Best epoch so far: 6.
+
+Epoch 11/200.
+Epoch 11/200, Train Loss: 0.4364, Train Acc: 0.7953, Val Acc: 0.7397
+Best validation accuracy so far: 0.7402755618095398. Best epoch so far: 6.
+
+Epoch 12/200.
+Epoch 12/200, Train Loss: 0.3672, Train Acc: 0.7962, Val Acc: 0.7564
+Best validation accuracy so far: 0.7563950419425964. Best epoch so far: 12.
+
+Epoch 13/200.
+Epoch 13/200, Train Loss: 0.4569, Train Acc: 0.7966, Val Acc: 0.7637
+Best validation accuracy so far: 0.7637130618095398. Best epoch so far: 13.
+
+Epoch 14/200.
+Epoch 14/200, Train Loss: 0.4320, Train Acc: 0.7991, Val Acc: 0.7506
+Best validation accuracy so far: 0.7637130618095398. Best epoch so far: 13.
+
+Epoch 15/200.
+Epoch 15/200, Train Loss: 0.4682, Train Acc: 0.7986, Val Acc: 0.7451
+Best validation accuracy so far: 0.7637130618095398. Best epoch so far: 13.
+
+Epoch 16/200.
+Epoch 16/200, Train Loss: 0.5300, Train Acc: 0.8004, Val Acc: 0.7510
+Best validation accuracy so far: 0.7637130618095398. Best epoch so far: 13.
+
+Epoch 17/200.
+Epoch 17/200, Train Loss: 0.4297, Train Acc: 0.8008, Val Acc: 0.7571
+Best validation accuracy so far: 0.7637130618095398. Best epoch so far: 13.
+
+Epoch 18/200.
+Epoch 18/200, Train Loss: 0.4480, Train Acc: 0.8020, Val Acc: 0.7623
+Best validation accuracy so far: 0.7637130618095398. Best epoch so far: 13.
+
+Epoch 19/200.
+Epoch 19/200, Train Loss: 0.3698, Train Acc: 0.8045, Val Acc: 0.7627
+Best validation accuracy so far: 0.7637130618095398. Best epoch so far: 13.
+
+Epoch 20/200.
+Epoch 20/200, Train Loss: 0.4026, Train Acc: 0.8051, Val Acc: 0.7478
+Best validation accuracy so far: 0.7637130618095398. Best epoch so far: 13.
+
+Epoch 21/200.
+Epoch 21/200, Train Loss: 0.3619, Train Acc: 0.8059, Val Acc: 0.7664
+Best validation accuracy so far: 0.7663502097129822. Best epoch so far: 21.
+
+Epoch 22/200.
+Epoch 22/200, Train Loss: 0.4181, Train Acc: 0.8077, Val Acc: 0.7423
+Best validation accuracy so far: 0.7663502097129822. Best epoch so far: 21.
+
+Epoch 23/200.
+Epoch 23/200, Train Loss: 0.3705, Train Acc: 0.8082, Val Acc: 0.7704
+Best validation accuracy so far: 0.7704377770423889. Best epoch so far: 23.
+
+Epoch 24/200.
+Epoch 24/200, Train Loss: 0.3862, Train Acc: 0.8079, Val Acc: 0.7477
+Best validation accuracy so far: 0.7704377770423889. Best epoch so far: 23.
+
+Epoch 25/200.
+Epoch 25/200, Train Loss: 0.4449, Train Acc: 0.8088, Val Acc: 0.7511
+Best validation accuracy so far: 0.7704377770423889. Best epoch so far: 23.
+
+Epoch 26/200.
+Epoch 26/200, Train Loss: 0.3931, Train Acc: 0.8112, Val Acc: 0.7551
+Best validation accuracy so far: 0.7704377770423889. Best epoch so far: 23.
+
+Epoch 27/200.
+Epoch 27/200, Train Loss: 0.4248, Train Acc: 0.8086, Val Acc: 0.7622
+Best validation accuracy so far: 0.7704377770423889. Best epoch so far: 23.
+
+Epoch 28/200.
+Epoch 28/200, Train Loss: 0.4267, Train Acc: 0.8101, Val Acc: 0.7531
+Best validation accuracy so far: 0.7704377770423889. Best epoch so far: 23.
+
+Epoch 29/200.
+Epoch 29/200, Train Loss: 0.3812, Train Acc: 0.8116, Val Acc: 0.7582
+Best validation accuracy so far: 0.7704377770423889. Best epoch so far: 23.
+
+Epoch 30/200.
+Epoch 30/200, Train Loss: 0.4335, Train Acc: 0.8114, Val Acc: 0.7628
+Best validation accuracy so far: 0.7704377770423889. Best epoch so far: 23.
+
+Epoch 31/200.
+Epoch 31/200, Train Loss: 0.3825, Train Acc: 0.8110, Val Acc: 0.7665
+Best validation accuracy so far: 0.7704377770423889. Best epoch so far: 23.
+
+Epoch 32/200.
+Epoch 32/200, Train Loss: 0.4204, Train Acc: 0.8138, Val Acc: 0.7475
+Best validation accuracy so far: 0.7704377770423889. Best epoch so far: 23.
+
+Epoch 33/200.
+Epoch 33/200, Train Loss: 0.3420, Train Acc: 0.8128, Val Acc: 0.7493
+Best validation accuracy so far: 0.7704377770423889. Best epoch so far: 23.
+
+Epoch 34/200.
+Epoch 34/200, Train Loss: 0.4181, Train Acc: 0.8135, Val Acc: 0.7407
+Best validation accuracy so far: 0.7704377770423889. Best epoch so far: 23.
+
+Epoch 35/200.
+Epoch 35/200, Train Loss: 0.3824, Train Acc: 0.8137, Val Acc: 0.7398
+Best validation accuracy so far: 0.7704377770423889. Best epoch so far: 23.
+
+Epoch 36/200.
+Epoch 36/200, Train Loss: 0.3955, Train Acc: 0.8138, Val Acc: 0.7459
+Best validation accuracy so far: 0.7704377770423889. Best epoch so far: 23.
+
+Epoch 37/200.
+Epoch 37/200, Train Loss: 0.4614, Train Acc: 0.8140, Val Acc: 0.7431
+Best validation accuracy so far: 0.7704377770423889. Best epoch so far: 23.
+
+Epoch 38/200.
+Epoch 38/200, Train Loss: 0.4356, Train Acc: 0.8151, Val Acc: 0.7557
+Best validation accuracy so far: 0.7704377770423889. Best epoch so far: 23.
+
+Epoch 39/200.
+Epoch 39/200, Train Loss: 0.4306, Train Acc: 0.8167, Val Acc: 0.7554
+Best validation accuracy so far: 0.7704377770423889. Best epoch so far: 23.
+
+Epoch 40/200.
+Epoch 40/200, Train Loss: 0.4793, Train Acc: 0.8148, Val Acc: 0.7717
+Best validation accuracy so far: 0.771657407283783. Best epoch so far: 40.
+
+Epoch 41/200.
+Epoch 41/200, Train Loss: 0.4265, Train Acc: 0.8150, Val Acc: 0.7544
+Best validation accuracy so far: 0.771657407283783. Best epoch so far: 40.
+
+Epoch 42/200.
+Epoch 42/200, Train Loss: 0.3890, Train Acc: 0.8157, Val Acc: 0.7488
+Best validation accuracy so far: 0.771657407283783. Best epoch so far: 40.
+
+Epoch 43/200.
+Epoch 43/200, Train Loss: 0.4557, Train Acc: 0.8154, Val Acc: 0.7699
+Best validation accuracy so far: 0.771657407283783. Best epoch so far: 40.
+
+Epoch 44/200.
+Epoch 44/200, Train Loss: 0.4146, Train Acc: 0.8181, Val Acc: 0.7523
+Best validation accuracy so far: 0.771657407283783. Best epoch so far: 40.
+
+Epoch 45/200.
+Epoch 45/200, Train Loss: 0.4744, Train Acc: 0.8179, Val Acc: 0.7565
+Best validation accuracy so far: 0.771657407283783. Best epoch so far: 40.
+
+Epoch 46/200.
+Epoch 46/200, Train Loss: 0.3498, Train Acc: 0.8159, Val Acc: 0.7623
+Best validation accuracy so far: 0.771657407283783. Best epoch so far: 40.
+
+Epoch 47/200.
+Epoch 47/200, Train Loss: 0.3545, Train Acc: 0.8179, Val Acc: 0.7665
+Best validation accuracy so far: 0.771657407283783. Best epoch so far: 40.
+
+Epoch 48/200.
+Epoch 48/200, Train Loss: 0.4558, Train Acc: 0.8171, Val Acc: 0.7629
+Best validation accuracy so far: 0.771657407283783. Best epoch so far: 40.
+
+Epoch 49/200.
+Epoch 49/200, Train Loss: 0.4377, Train Acc: 0.8184, Val Acc: 0.7658
+Best validation accuracy so far: 0.771657407283783. Best epoch so far: 40.
+
+Epoch 50/200.
+Epoch 50/200, Train Loss: 0.3768, Train Acc: 0.8171, Val Acc: 0.7622
+Best validation accuracy so far: 0.771657407283783. Best epoch so far: 40.
+
+Epoch 51/200.
+Epoch 51/200, Train Loss: 0.3923, Train Acc: 0.8201, Val Acc: 0.7587
+Best validation accuracy so far: 0.771657407283783. Best epoch so far: 40.
+
+Epoch 52/200.
+Epoch 52/200, Train Loss: 0.3873, Train Acc: 0.8210, Val Acc: 0.7567
+Best validation accuracy so far: 0.771657407283783. Best epoch so far: 40.
+
+Epoch 53/200.
+Epoch 53/200, Train Loss: 0.4237, Train Acc: 0.8205, Val Acc: 0.7539
+Best validation accuracy so far: 0.771657407283783. Best epoch so far: 40.
+
+Epoch 54/200.
+Epoch 54/200, Train Loss: 0.4527, Train Acc: 0.8182, Val Acc: 0.7343
+Best validation accuracy so far: 0.771657407283783. Best epoch so far: 40.
+
+Epoch 55/200.
+Epoch 55/200, Train Loss: 0.3308, Train Acc: 0.8187, Val Acc: 0.7367
+Best validation accuracy so far: 0.771657407283783. Best epoch so far: 40.
+
+Epoch 56/200.
+Epoch 56/200, Train Loss: 0.3619, Train Acc: 0.8218, Val Acc: 0.7607
+Best validation accuracy so far: 0.771657407283783. Best epoch so far: 40.
+
+Epoch 57/200.
+Epoch 57/200, Train Loss: 0.4125, Train Acc: 0.8196, Val Acc: 0.7757
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 58/200.
+Epoch 58/200, Train Loss: 0.4836, Train Acc: 0.8205, Val Acc: 0.7540
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 59/200.
+Epoch 59/200, Train Loss: 0.3582, Train Acc: 0.8214, Val Acc: 0.7549
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 60/200.
+Epoch 60/200, Train Loss: 0.4338, Train Acc: 0.8205, Val Acc: 0.7597
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 61/200.
+Epoch 61/200, Train Loss: 0.4062, Train Acc: 0.8225, Val Acc: 0.7594
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 62/200.
+Epoch 62/200, Train Loss: 0.3732, Train Acc: 0.8222, Val Acc: 0.7623
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 63/200.
+Epoch 63/200, Train Loss: 0.3773, Train Acc: 0.8218, Val Acc: 0.7547
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 64/200.
+Epoch 64/200, Train Loss: 0.5441, Train Acc: 0.8216, Val Acc: 0.7477
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 65/200.
+Epoch 65/200, Train Loss: 0.3558, Train Acc: 0.8214, Val Acc: 0.7401
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 66/200.
+Epoch 66/200, Train Loss: 0.3879, Train Acc: 0.8226, Val Acc: 0.7620
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 67/200.
+Epoch 67/200, Train Loss: 0.3150, Train Acc: 0.8239, Val Acc: 0.7538
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 68/200.
+Epoch 68/200, Train Loss: 0.4224, Train Acc: 0.8221, Val Acc: 0.7736
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 69/200.
+Epoch 69/200, Train Loss: 0.3632, Train Acc: 0.8233, Val Acc: 0.7549
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 70/200.
+Epoch 70/200, Train Loss: 0.3771, Train Acc: 0.8243, Val Acc: 0.7637
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 71/200.
+Epoch 71/200, Train Loss: 0.4220, Train Acc: 0.8256, Val Acc: 0.7678
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 72/200.
+Epoch 72/200, Train Loss: 0.3902, Train Acc: 0.8247, Val Acc: 0.7595
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 73/200.
+Epoch 73/200, Train Loss: 0.3928, Train Acc: 0.8240, Val Acc: 0.7509
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 74/200.
+Epoch 74/200, Train Loss: 0.4010, Train Acc: 0.8241, Val Acc: 0.7651
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 75/200.
+Epoch 75/200, Train Loss: 0.4630, Train Acc: 0.8242, Val Acc: 0.7630
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 76/200.
+Epoch 76/200, Train Loss: 0.3105, Train Acc: 0.8269, Val Acc: 0.7527
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 77/200.
+Epoch 77/200, Train Loss: 0.3701, Train Acc: 0.8249, Val Acc: 0.7558
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 78/200.
+Epoch 78/200, Train Loss: 0.3808, Train Acc: 0.8257, Val Acc: 0.7470
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 79/200.
+Epoch 79/200, Train Loss: 0.4552, Train Acc: 0.8250, Val Acc: 0.7458
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 80/200.
+Epoch 80/200, Train Loss: 0.3973, Train Acc: 0.8265, Val Acc: 0.7608
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 81/200.
+Epoch 81/200, Train Loss: 0.3928, Train Acc: 0.8268, Val Acc: 0.7618
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 82/200.
+Epoch 82/200, Train Loss: 0.4225, Train Acc: 0.8264, Val Acc: 0.7452
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 83/200.
+Epoch 83/200, Train Loss: 0.3987, Train Acc: 0.8271, Val Acc: 0.7531
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 84/200.
+Epoch 84/200, Train Loss: 0.4065, Train Acc: 0.8260, Val Acc: 0.7585
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 85/200.
+Epoch 85/200, Train Loss: 0.3600, Train Acc: 0.8265, Val Acc: 0.7476
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 86/200.
+Epoch 86/200, Train Loss: 0.3685, Train Acc: 0.8274, Val Acc: 0.7653
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 87/200.
+Epoch 87/200, Train Loss: 0.2835, Train Acc: 0.8276, Val Acc: 0.7628
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 88/200.
+Epoch 88/200, Train Loss: 0.4098, Train Acc: 0.8276, Val Acc: 0.7605
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 89/200.
+Epoch 89/200, Train Loss: 0.4086, Train Acc: 0.8273, Val Acc: 0.7545
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 90/200.
+Epoch 90/200, Train Loss: 0.3486, Train Acc: 0.8284, Val Acc: 0.7576
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 91/200.
+Epoch 91/200, Train Loss: 0.4200, Train Acc: 0.8279, Val Acc: 0.7483
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 92/200.
+Epoch 92/200, Train Loss: 0.3630, Train Acc: 0.8258, Val Acc: 0.7584
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 93/200.
+Epoch 93/200, Train Loss: 0.4018, Train Acc: 0.8265, Val Acc: 0.7394
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 94/200.
+Epoch 94/200, Train Loss: 0.4411, Train Acc: 0.8281, Val Acc: 0.7458
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 95/200.
+Epoch 95/200, Train Loss: 0.4030, Train Acc: 0.8274, Val Acc: 0.7316
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 96/200.
+Epoch 96/200, Train Loss: 0.4092, Train Acc: 0.8285, Val Acc: 0.7516
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 97/200.
+Epoch 97/200, Train Loss: 0.3393, Train Acc: 0.8303, Val Acc: 0.7613
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 98/200.
+Epoch 98/200, Train Loss: 0.3543, Train Acc: 0.8282, Val Acc: 0.7646
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 99/200.
+Epoch 99/200, Train Loss: 0.3866, Train Acc: 0.8299, Val Acc: 0.7648
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 100/200.
+Epoch 100/200, Train Loss: 0.5008, Train Acc: 0.8297, Val Acc: 0.7629
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 101/200.
+Epoch 101/200, Train Loss: 0.3531, Train Acc: 0.8282, Val Acc: 0.7681
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 102/200.
+Epoch 102/200, Train Loss: 0.3509, Train Acc: 0.8298, Val Acc: 0.7613
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 103/200.
+Epoch 103/200, Train Loss: 0.4920, Train Acc: 0.8290, Val Acc: 0.7510
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 104/200.
+Epoch 104/200, Train Loss: 0.3730, Train Acc: 0.8296, Val Acc: 0.7501
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 105/200.
+Epoch 105/200, Train Loss: 0.4273, Train Acc: 0.8285, Val Acc: 0.7413
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 106/200.
+Epoch 106/200, Train Loss: 0.3961, Train Acc: 0.8310, Val Acc: 0.7518
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 107/200.
+Epoch 107/200, Train Loss: 0.4410, Train Acc: 0.8277, Val Acc: 0.7702
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 108/200.
+Epoch 108/200, Train Loss: 0.4021, Train Acc: 0.8325, Val Acc: 0.7583
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 109/200.
+Epoch 109/200, Train Loss: 0.4093, Train Acc: 0.8298, Val Acc: 0.7607
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 110/200.
+Epoch 110/200, Train Loss: 0.3546, Train Acc: 0.8307, Val Acc: 0.7505
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 111/200.
+Epoch 111/200, Train Loss: 0.4856, Train Acc: 0.8307, Val Acc: 0.7471
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 112/200.
+Epoch 112/200, Train Loss: 0.4319, Train Acc: 0.8300, Val Acc: 0.7430
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 113/200.
+Epoch 113/200, Train Loss: 0.3707, Train Acc: 0.8302, Val Acc: 0.7575
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 114/200.
+Epoch 114/200, Train Loss: 0.4083, Train Acc: 0.8303, Val Acc: 0.7733
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 115/200.
+Epoch 115/200, Train Loss: 0.3814, Train Acc: 0.8317, Val Acc: 0.7447
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 116/200.
+Epoch 116/200, Train Loss: 0.3660, Train Acc: 0.8314, Val Acc: 0.7502
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 117/200.
+Epoch 117/200, Train Loss: 0.4081, Train Acc: 0.8298, Val Acc: 0.7512
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 118/200.
+Epoch 118/200, Train Loss: 0.4067, Train Acc: 0.8298, Val Acc: 0.7608
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 119/200.
+Epoch 119/200, Train Loss: 0.4551, Train Acc: 0.8325, Val Acc: 0.7594
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 120/200.
+Epoch 120/200, Train Loss: 0.3541, Train Acc: 0.8326, Val Acc: 0.7688
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 121/200.
+Epoch 121/200, Train Loss: 0.3322, Train Acc: 0.8327, Val Acc: 0.7595
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 122/200.
+Epoch 122/200, Train Loss: 0.3234, Train Acc: 0.8324, Val Acc: 0.7648
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 123/200.
+Epoch 123/200, Train Loss: 0.3278, Train Acc: 0.8334, Val Acc: 0.7467
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 124/200.
+Epoch 124/200, Train Loss: 0.4198, Train Acc: 0.8298, Val Acc: 0.7405
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 125/200.
+Epoch 125/200, Train Loss: 0.3858, Train Acc: 0.8315, Val Acc: 0.7597
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 126/200.
+Epoch 126/200, Train Loss: 0.3924, Train Acc: 0.8330, Val Acc: 0.7582
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 127/200.
+Epoch 127/200, Train Loss: 0.3472, Train Acc: 0.8332, Val Acc: 0.7583
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 128/200.
+Epoch 128/200, Train Loss: 0.4031, Train Acc: 0.8321, Val Acc: 0.7489
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 129/200.
+Epoch 129/200, Train Loss: 0.4260, Train Acc: 0.8318, Val Acc: 0.7393
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 130/200.
+Epoch 130/200, Train Loss: 0.2987, Train Acc: 0.8331, Val Acc: 0.7687
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 131/200.
+Epoch 131/200, Train Loss: 0.3585, Train Acc: 0.8351, Val Acc: 0.7612
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 132/200.
+Epoch 132/200, Train Loss: 0.3793, Train Acc: 0.8331, Val Acc: 0.7548
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 133/200.
+Epoch 133/200, Train Loss: 0.3475, Train Acc: 0.8328, Val Acc: 0.7438
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 134/200.
+Epoch 134/200, Train Loss: 0.3437, Train Acc: 0.8333, Val Acc: 0.7495
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 135/200.
+Epoch 135/200, Train Loss: 0.3857, Train Acc: 0.8324, Val Acc: 0.7602
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 136/200.
+Epoch 136/200, Train Loss: 0.3687, Train Acc: 0.8334, Val Acc: 0.7673
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 137/200.
+Epoch 137/200, Train Loss: 0.3843, Train Acc: 0.8320, Val Acc: 0.7481
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 138/200.
+Epoch 138/200, Train Loss: 0.4510, Train Acc: 0.8321, Val Acc: 0.7538
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 139/200.
+Epoch 139/200, Train Loss: 0.3576, Train Acc: 0.8333, Val Acc: 0.7527
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 140/200.
+Epoch 140/200, Train Loss: 0.3580, Train Acc: 0.8328, Val Acc: 0.7616
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 141/200.
+Epoch 141/200, Train Loss: 0.3887, Train Acc: 0.8332, Val Acc: 0.7591
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 142/200.
+Epoch 142/200, Train Loss: 0.3330, Train Acc: 0.8339, Val Acc: 0.7515
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 143/200.
+Epoch 143/200, Train Loss: 0.4252, Train Acc: 0.8342, Val Acc: 0.7432
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 144/200.
+Epoch 144/200, Train Loss: 0.4116, Train Acc: 0.8330, Val Acc: 0.7412
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 145/200.
+Epoch 145/200, Train Loss: 0.4120, Train Acc: 0.8342, Val Acc: 0.7547
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 146/200.
+Epoch 146/200, Train Loss: 0.4021, Train Acc: 0.8323, Val Acc: 0.7370
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 147/200.
+Epoch 147/200, Train Loss: 0.4092, Train Acc: 0.8346, Val Acc: 0.7570
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 148/200.
+Epoch 148/200, Train Loss: 0.3881, Train Acc: 0.8350, Val Acc: 0.7506
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 149/200.
+Epoch 149/200, Train Loss: 0.3453, Train Acc: 0.8345, Val Acc: 0.7514
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 150/200.
+Epoch 150/200, Train Loss: 0.4321, Train Acc: 0.8336, Val Acc: 0.7514
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 151/200.
+Epoch 151/200, Train Loss: 0.3663, Train Acc: 0.8340, Val Acc: 0.7634
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 152/200.
+Epoch 152/200, Train Loss: 0.2915, Train Acc: 0.8365, Val Acc: 0.7601
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 153/200.
+Epoch 153/200, Train Loss: 0.4318, Train Acc: 0.8339, Val Acc: 0.7511
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 154/200.
+Epoch 154/200, Train Loss: 0.3764, Train Acc: 0.8350, Val Acc: 0.7475
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 155/200.
+Epoch 155/200, Train Loss: 0.3164, Train Acc: 0.8350, Val Acc: 0.7608
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 156/200.
+Epoch 156/200, Train Loss: 0.3036, Train Acc: 0.8359, Val Acc: 0.7604
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 157/200.
+Epoch 157/200, Train Loss: 0.3829, Train Acc: 0.8366, Val Acc: 0.7648
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 158/200.
+Epoch 158/200, Train Loss: 0.3807, Train Acc: 0.8357, Val Acc: 0.7611
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 159/200.
+Epoch 159/200, Train Loss: 0.2938, Train Acc: 0.8371, Val Acc: 0.7544
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 160/200.
+Epoch 160/200, Train Loss: 0.4486, Train Acc: 0.8361, Val Acc: 0.7612
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 161/200.
+Epoch 161/200, Train Loss: 0.3802, Train Acc: 0.8342, Val Acc: 0.7571
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 162/200.
+Epoch 162/200, Train Loss: 0.3933, Train Acc: 0.8350, Val Acc: 0.7545
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 163/200.
+Epoch 163/200, Train Loss: 0.3565, Train Acc: 0.8359, Val Acc: 0.7678
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 164/200.
+Epoch 164/200, Train Loss: 0.4025, Train Acc: 0.8356, Val Acc: 0.7498
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 165/200.
+Epoch 165/200, Train Loss: 0.3790, Train Acc: 0.8363, Val Acc: 0.7586
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 166/200.
+Epoch 166/200, Train Loss: 0.3952, Train Acc: 0.8362, Val Acc: 0.7634
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 167/200.
+Epoch 167/200, Train Loss: 0.3688, Train Acc: 0.8368, Val Acc: 0.7627
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 168/200.
+Epoch 168/200, Train Loss: 0.3740, Train Acc: 0.8372, Val Acc: 0.7531
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 169/200.
+Epoch 169/200, Train Loss: 0.4282, Train Acc: 0.8364, Val Acc: 0.7458
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 170/200.
+Epoch 170/200, Train Loss: 0.3289, Train Acc: 0.8355, Val Acc: 0.7525
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 171/200.
+Epoch 171/200, Train Loss: 0.5007, Train Acc: 0.8352, Val Acc: 0.7561
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 172/200.
+Epoch 172/200, Train Loss: 0.4795, Train Acc: 0.8359, Val Acc: 0.7573
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 173/200.
+Epoch 173/200, Train Loss: 0.3814, Train Acc: 0.8384, Val Acc: 0.7681
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 174/200.
+Epoch 174/200, Train Loss: 0.3475, Train Acc: 0.8358, Val Acc: 0.7516
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 175/200.
+Epoch 175/200, Train Loss: 0.4102, Train Acc: 0.8380, Val Acc: 0.7631
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 176/200.
+Epoch 176/200, Train Loss: 0.3573, Train Acc: 0.8365, Val Acc: 0.7558
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 177/200.
+Epoch 177/200, Train Loss: 0.3996, Train Acc: 0.8374, Val Acc: 0.7502
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 178/200.
+Epoch 178/200, Train Loss: 0.3636, Train Acc: 0.8392, Val Acc: 0.7630
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 179/200.
+Epoch 179/200, Train Loss: 0.3482, Train Acc: 0.8378, Val Acc: 0.7597
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 180/200.
+Epoch 180/200, Train Loss: 0.4859, Train Acc: 0.8387, Val Acc: 0.7604
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 181/200.
+Epoch 181/200, Train Loss: 0.3193, Train Acc: 0.8372, Val Acc: 0.7603
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 182/200.
+Epoch 182/200, Train Loss: 0.4024, Train Acc: 0.8368, Val Acc: 0.7673
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 183/200.
+Epoch 183/200, Train Loss: 0.4479, Train Acc: 0.8372, Val Acc: 0.7514
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 184/200.
+Epoch 184/200, Train Loss: 0.3641, Train Acc: 0.8357, Val Acc: 0.7479
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 185/200.
+Epoch 185/200, Train Loss: 0.3706, Train Acc: 0.8382, Val Acc: 0.7418
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 186/200.
+Epoch 186/200, Train Loss: 0.3382, Train Acc: 0.8390, Val Acc: 0.7534
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 187/200.
+Epoch 187/200, Train Loss: 0.3086, Train Acc: 0.8391, Val Acc: 0.7700
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 188/200.
+Epoch 188/200, Train Loss: 0.3485, Train Acc: 0.8374, Val Acc: 0.7593
+Best validation accuracy so far: 0.7757449746131897. Best epoch so far: 57.
+
+Epoch 189/200.
+Epoch 189/200, Train Loss: 0.3853, Train Acc: 0.8377, Val Acc: 0.7830
+Best validation accuracy so far: 0.7829970717430115. Best epoch so far: 189.
+
+Epoch 190/200.
+Epoch 190/200, Train Loss: 0.3998, Train Acc: 0.8383, Val Acc: 0.7472
+Best validation accuracy so far: 0.7829970717430115. Best epoch so far: 189.
+
+Epoch 191/200.
+Epoch 191/200, Train Loss: 0.3805, Train Acc: 0.8400, Val Acc: 0.7635
+Best validation accuracy so far: 0.7829970717430115. Best epoch so far: 189.
+
+Epoch 192/200.
+Epoch 192/200, Train Loss: 0.4018, Train Acc: 0.8396, Val Acc: 0.7634
+Best validation accuracy so far: 0.7829970717430115. Best epoch so far: 189.
+
+Epoch 193/200.
+Epoch 193/200, Train Loss: 0.4136, Train Acc: 0.8381, Val Acc: 0.7766
+Best validation accuracy so far: 0.7829970717430115. Best epoch so far: 189.
+
+Epoch 194/200.
+Epoch 194/200, Train Loss: 0.4014, Train Acc: 0.8387, Val Acc: 0.7505
+Best validation accuracy so far: 0.7829970717430115. Best epoch so far: 189.
+
+Epoch 195/200.
+Epoch 195/200, Train Loss: 0.3235, Train Acc: 0.8389, Val Acc: 0.7555
+Best validation accuracy so far: 0.7829970717430115. Best epoch so far: 189.
+
+Epoch 196/200.
+Epoch 196/200, Train Loss: 0.4421, Train Acc: 0.8397, Val Acc: 0.7645
+Best validation accuracy so far: 0.7829970717430115. Best epoch so far: 189.
+
+Epoch 197/200.
+Epoch 197/200, Train Loss: 0.4469, Train Acc: 0.8403, Val Acc: 0.7663
+Best validation accuracy so far: 0.7829970717430115. Best epoch so far: 189.
+
+Epoch 198/200.
+Epoch 198/200, Train Loss: 0.3325, Train Acc: 0.8394, Val Acc: 0.7534
+Best validation accuracy so far: 0.7829970717430115. Best epoch so far: 189.
+
+Epoch 199/200.
+Epoch 199/200, Train Loss: 0.3764, Train Acc: 0.8411, Val Acc: 0.7625
+Best validation accuracy so far: 0.7829970717430115. Best epoch so far: 189.
+
+Epoch 200/200.
+Epoch 200/200, Train Loss: 0.4547, Train Acc: 0.8389, Val Acc: 0.7613
+Best validation accuracy so far: 0.7829970717430115. Best epoch so far: 189.

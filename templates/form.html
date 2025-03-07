@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HealthAIoT: A Diabetes Risk Assessment Application</title>
+</head>
+<body style="font-family: Arial, sans-serif; margin: 18px; background-color: #f9f9f9; color: #333;">
+    <h1 style="text-align: center; color: #2c3e50;">HealthAIoT: A Diabetes Risk Assessment Application</h1>
+    <div style="max-width: 800px; margin: 1px auto;background-color: rgba(255,243,243,0.19); border: 1px solid rgba(231,76,60,0.59); border-radius: 5px;">
+    <h3 class="mandatory-note" style="text-align: center; color: #e74c3c; font-weight: bold;">All fields are mandatory to ensure an accurate risk assessment. <br><br>
+    Please note: this application is designed to assess potential diabetes risk to support healthy habits and encourage timely consultation, it's not a clinical diagnosis tool.
+    </div>
+    </h3><br>
+
+    <style>
+    input[type="radio"] {
+        transform: scale(1.3);
+        position: relative;
+        top: -3px;
+    }
+    </style>
+
+    <form method="post" action="/" style="max-width: 650px; margin: 0 auto; padding: 20px; background-color: #fff;
+    border: 1px solid #ddd; border-radius: 8px;">
+
+        <label for="HighBP" style="display: block; margin-bottom: 10px;">1. Do you have a high blood pressure problem?</label>
+        <input name="HighBP" id="HighBP" value="0" type="radio"> No
+        <input name="HighBP" id="HighBP" value="1" type="radio"> Yes
+        <br><br>
+
+        <label for="HighChol" style="display: block; margin-bottom: 10px;">2. Do you have a high cholesterol problem?</label>
+        <input name="HighChol" type="radio" value="0" id="HighChol"> No
+        <input name="HighChol" type="radio" value="1" id="HighChol"> Yes
+        <br><br>
+        
+        <label for="CholCheck" style="display: block; margin-bottom: 10px;">3. Have you had a cholesterol check test in the past 5 years?</label>
+        <input name="CholCheck" id="CholCheck" value="0" type="radio"> Yes
+        <input name="CholCheck" id="CholCheck" value="1" type="radio"> No
+        <br><br>
+
+        <label for="BMI" style="display: block; margin-bottom: 10px;">4. What is your Body Mass Index (BMI)?</label>
+        <input placeholder="Enter BMI measure" min="1" name="BMI" id="BMI" type="number" title="Enter BMI Measure" required style="padding: 5px; width: 72px;">
+        <br><br>
+        
+        <label for="Smoker" style="display: block; margin-bottom: 10px;">5. Do you smoke regularly?</label>
+        <input name="Smoker" id="Smoker" value="0" type="radio"> No 
+        <input name="Smoker" id="Smoker" value="1" type="radio"> Yes
+        <small style="display: block; color: #777;">Have you smoked at least 100 cigarettes in your entire life? [Note: 5 packs = 100 cigarettes]</small>
+        <br>
+
+        <label for="Stroke" style="display: block; margin-bottom: 10px;">6. Do you have a history of stroke?</label>
+        <input name="Stroke" id="Stroke" value="0" type="radio"> No
+        <input name="Stroke" id="Stroke" value="1" type="radio"> Yes
+        <br><br>
+
+        <label for="HeartDiseaseorAttack" style="display: block; margin-bottom: 10px;">7. Do you have a heart condition related to coronary heart disease or myocardial infarction?</label>
+        <input title="coronary heart disease (CHD) or myocardial infarction (MI)"
+               name="HeartDiseaseorAttack" type="radio" id="HeartDiseaseorAttack" value="0"> No
+        <input title="coronary heart disease (CHD) or myocardial infarction (MI)"
+               name="HeartDiseaseorAttack" type="radio" id="HeartDiseaseorAttack" value="1"> Yes
+        <br><br>
+
+        <label for="PhysActivity" style="display: block; margin-bottom: 10px;">8. Have you engaged in any physical activity in the past 30 days?</label>
+        <input name="PhysActivity" id="PhysActivity" value="0" type="radio"> No
+        <input name="PhysActivity" id="PhysActivity" value="1" type="radio"> Yes
+        <br><br>
+
+        <label for="Fruits" style="display: block; margin-bottom: 10px;">9. Do you consume fruits one or more times per day?</label>
+        <input name="Fruits" value="0" type="radio" id="Fruits"> No
+        <input name="Fruits" value="1" type="radio" id="Fruits"> Yes
+        <br><br>
+
+        <label for="Veggies" style="display: block; margin-bottom: 10px;">10. Do you eat vegetables one or more times per day?</label>
+        <input id="Veggies" name="Veggies" value="0" type="radio"> No
+        <input id="Veggies" name="Veggies" value="1" type="radio"> Yes
+        <br><br>
+
+        <label for="HvyAlcoholConsump" style="display: block; margin-bottom: 10px;">11. Do you drink alcohol heavily?</label>
+        <input name="HvyAlcoholConsump" id="HvyAlcoholConsump" type="radio" value="0"> No
+        <input name="HvyAlcoholConsump" id="HvyAlcoholConsump" type="radio" value="1"> Yes
+        <small style="display: block; color: #777;">Heavy alcohol consumption is defined as more than 14 drinks per week for men
+            and more than 7 drinks per week for women.</small>
+        <br>
+
+        <label for="AnyHealthcare" style="display: block; margin-bottom: 10px;">12. Do you have any healthcare coverage?</label>
+        <input name="AnyHealthcare" id="AnyHealthcare" value="0" type="radio"> No
+        <input name="AnyHealthcare" id="AnyHealthcare" value="1" type="radio"> yes
+        <br><br>
+
+        <label for="NoDocbcCost" style="display: block; margin-bottom: 10px;">13. Have you ever been unable to visit a doctor due to cost?</label>
+        <input type="radio" id="NoDocbcCost" name="NoDocbcCost" value="0"> No
+        <input type="radio" id="NoDocbcCost" name="NoDocbcCost" value="1"> Yes
+        <br><br>
+
+        <label for="GenHlth" style="display: block; margin-bottom: 10px;">14. How is your overall health?</label>
+        <input name="GenHlth" id="GenHlth" min="1" max="5" class="extended-input" placeholder="1-5" type="number" required style="padding: 5px; width: 60px;">
+        <small style="display: block; color: #777;"> Please rate your overall health on a scale from 1 to 5: 1="Excellent"; 2="Very Good"; 3="Good"; 4="Fair"; 5="Poor"</small>
+        <br>
+
+        <label for="MentHlth" style="display: block; margin-bottom: 10px;">15. Number of days your mental health was not good:</label>
+        <input name="MentHlth" id="MentHlth" min="1" max="30" type="number" class="extended-input" placeholder="1-30" required style="padding: 5px; width: 60px;">
+        <small style="display: block; color: #777;">Over the past 30 days, how many days was your mental health not good? (Include days of stress, depression, or emotional problems.)
+            Please enter a number between 0 and 30.</small>
+        <br>
+
+        <label for="PhysHlth" style="display: block; margin-bottom: 10px;">16. Number of days your physical health was not good:</label>
+        <input name="PhysHlth" id="PhysHlth" type="number" min="1" max="30" class="extended-input" placeholder="1-30" required style="padding: 5px; width: 60px;">
+        <small style="display: block; color: #777;">Over the past 30 days, how many days was your physical health not good? (Include days of illness or injury.)
+            Please enter a number between **0 and 30**.</small>
+        <br>
+
+        <label for="DiffWalk" style="display: block; margin-bottom: 10px;">17. Do you have difficulty climbing stairs?</label>
+        <input name="DiffWalk" value="0" id="DiffWalk" type="radio"> No
+        <input name="DiffWalk" value="1" id="DiffWalk" type="radio"> Yes
+        <br><br>
+
+        <label for="Sex" style="display: block; margin-bottom: 10px;">18. What is your gender?</label>
+        <input name="Sex" id="Sex" value="0" type="radio"> Female
+        <input name="Sex" id="Sex" value="1" type="radio"> Male
+        <br><br>
+
+        <label for="Age" style="display: block; margin-bottom: 10px;">19. Which age category do you belong to?</label>
+        <input name="Age" id="Age" min="1" max="13" class="extended-input" type="number" placeholder="1-13" required style="padding: 5px; width: 60px;">
+        <small style="display: block; color: #777;">13-level age category: 1="18-24"; 2="25-29"; 3="30-34"; 4="35-39"; 5="40-44" .. 9="60-64";
+            10="65-69"; 11="70-74"; 12="75-79"; 13="80 or older"</small>
+        <br>
+
+        <label for="Education" style="display: block; margin-bottom: 10px;">20. Which education level do you belong to?</label>
+        <input name="Education" id="Education" min="1" max="6" size="10" class="extended-input" type="number" placeholder="1-6" required style="padding: 5px; width: 60px;">
+        <small style="display: block; color: #777;">Six educational level: 1="Never attended school"; 2="Grades 1 through 8 (Elementary)";
+            3="Grades 9 through 11 (Some high school)"; 4="Grade 12 or GED (High school graduate)";
+            5="College 1 year to 3 years (Some college or technical school)"; 6="College 4 years or more (College graduate)"</small>
+        <br>
+
+        <label for="Income" style="display: block; margin-bottom: 10px;">21. Which income category do you belong to?</label>
+        <input type="number" id="Income" name="Income" min="1" max="8" class="extended-input" placeholder="1-8" required style="padding: 5px; width: 60px;">
+        <small style="display: block; color: #777;">Eight income scale: 1="less than $10K"; 2="less than $20k"; 3="less than $25K"; 4="less than $30K";
+            5="less than $35K"; 6="less than $55K"; 7="less than $65K"; 8="$65k or more"</small>
+        <br>
+
+        <button type="submit"
+                style="background-color: #2ecc71; color: #fff; border-radius: 31px; padding: 15px 30px; font-size: 18px; margin-right: 20px;">Get Diagnosis</button>
+        <button type="button" onclick="window.location.href='/refresh'"
+                style="background-color: #e74c3c; color: #fff; border-radius: 31px; padding: 15px 30px; font-size: 18px;">Refresh</button>
+    </form>
+</body>
+</html>
+

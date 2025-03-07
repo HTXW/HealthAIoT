@@ -1,0 +1,275 @@
+[
+    {
+        "system": "broker",
+        "timestamp": "2024-08-17 22:03:38",
+        "model_execution_time": 0.02274775505065918,
+        "total_execution_time": 0.025475025177001953,
+        "latency": 0.002724170684814453
+    },
+    {
+        "system": "worker_2",
+        "timestamp": "2024-08-17 23:06:14",
+        "model_execution_time": 0.042311668395996094,
+        "total_execution_time": 0.16644597053527832,
+        "latency": 0.0026340484619140625
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2024-08-17 23:06:47",
+        "model_execution_time": 0.001163482666015625,
+        "total_execution_time": 0.08349108695983887,
+        "latency": 0.0008099079132080078
+    },
+    {
+        "system": "broker",
+        "timestamp": "2024-08-18 00:27:19",
+        "model_execution_time": 12.079277038574219,
+        "total_execution_time": 12.081341981887817,
+        "latency": 0.0020630359649658203
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2024-08-18 02:11:02",
+        "model_execution_time": 0.05059409141540527,
+        "total_execution_time": 0.1612379550933838,
+        "latency": 0.0027098655700683594
+    },
+    {
+        "system": "broker",
+        "timestamp": "2024-08-18 03:45:21",
+        "model_execution_time": 12.054637908935547,
+        "total_execution_time": 12.056203126907349,
+        "latency": 0.0015630722045898438
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2024-08-18 04:07:29",
+        "model_execution_time": 0.046231985092163086,
+        "total_execution_time": 0.2509770393371582,
+        "latency": 0.00415802001953125
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2024-08-18 04:10:01",
+        "model_execution_time": 0.0011990070343017578,
+        "total_execution_time": 0.09700775146484375,
+        "latency": 0.0006589889526367188
+    },
+    {
+        "system": "broker",
+        "timestamp": "2024-08-18 14:29:11",
+        "model_execution_time": 12.080747127532959,
+        "total_execution_time": 12.08601713180542,
+        "latency": 0.005269050598144531
+    },
+    {
+        "system": "worker_2",
+        "timestamp": "2024-08-18 16:43:47",
+        "model_execution_time": 0.046082258224487305,
+        "total_execution_time": 0.19469094276428223,
+        "latency": 0.0016870498657226562
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2024-08-18 16:45:53",
+        "model_execution_time": 0.0012631416320800781,
+        "total_execution_time": 0.11713671684265137,
+        "latency": 0.0007569789886474609
+    },
+    {
+        "system": "worker_1",
+        "timestamp": "2024-08-21 20:25:13",
+        "model_execution_time": 0.0434415340423584,
+        "total_execution_time": 0.14770102500915527,
+        "latency": 0.0038650035858154297
+    },
+    {
+        "system": "broker",
+        "timestamp": "2024-10-22 14:22:39",
+        "model_execution_time": 12.070367097854614,
+        "total_execution_time": 12.073410749435425,
+        "latency": 0.003041982650756836
+    },
+    {
+        "system": "broker",
+        "timestamp": "2024-10-25 12:34:50",
+        "model_execution_time": 12.088321924209595,
+        "total_execution_time": 12.090415239334106,
+        "latency": 0.0020911693572998047
+    },
+    {
+        "system": "broker",
+        "timestamp": "2024-10-28 18:06:01",
+        "model_execution_time": 12.060664653778076,
+        "total_execution_time": 12.062278985977173,
+        "latency": 0.0016121864318847656
+    },
+    {
+        "system": "broker",
+        "timestamp": "2024-10-28 18:07:13",
+        "model_execution_time": 12.06392216682434,
+        "total_execution_time": 12.065675020217896,
+        "latency": 0.0017499923706054688
+    },
+    {
+        "system": "broker",
+        "timestamp": "2024-10-28 18:08:04",
+        "model_execution_time": 12.044713020324707,
+        "total_execution_time": 12.045300006866455,
+        "latency": 0.0005829334259033203
+    },
+    {
+        "system": "broker",
+        "timestamp": "2024-10-28 18:09:33",
+        "model_execution_time": 12.051923274993896,
+        "total_execution_time": 12.052534580230713,
+        "latency": 0.0006096363067626953
+    },
+    {
+        "system": "broker",
+        "timestamp": "2024-10-28 18:11:01",
+        "model_execution_time": 12.044233083724976,
+        "total_execution_time": 12.044761896133423,
+        "latency": 0.0005259513854980469
+    },
+    {
+        "system": "broker",
+        "timestamp": "2024-10-28 18:11:32",
+        "model_execution_time": 12.041942119598389,
+        "total_execution_time": 12.042464971542358,
+        "latency": 0.0005209445953369141
+    },
+    {
+        "system": "broker",
+        "timestamp": "2024-10-28 18:12:14",
+        "model_execution_time": 12.061106204986572,
+        "total_execution_time": 12.06179690361023,
+        "latency": 0.0006868839263916016
+    },
+    {
+        "system": "broker",
+        "timestamp": "2024-10-28 18:13:06",
+        "model_execution_time": 12.057755947113037,
+        "total_execution_time": 12.05829119682312,
+        "latency": 0.0005321502685546875
+    },
+    {
+        "system": "broker",
+        "timestamp": "2024-10-28 18:13:35",
+        "model_execution_time": 12.055771827697754,
+        "total_execution_time": 12.056365013122559,
+        "latency": 0.0005891323089599609
+    },
+    {
+        "system": "broker",
+        "timestamp": "2024-10-28 18:14:14",
+        "model_execution_time": 12.060817003250122,
+        "total_execution_time": 12.062008142471313,
+        "latency": 0.001188039779663086
+    },
+    {
+        "system": "broker",
+        "timestamp": "2024-10-28 18:18:10",
+        "model_execution_time": 12.057942867279053,
+        "total_execution_time": 12.059567213058472,
+        "latency": 0.0016222000122070312
+    },
+    {
+        "system": "broker",
+        "timestamp": "2024-10-28 18:19:37",
+        "model_execution_time": 12.05952501296997,
+        "total_execution_time": 12.060585021972656,
+        "latency": 0.0010559558868408203
+    },
+    {
+        "system": "broker",
+        "timestamp": "2024-10-28 18:20:18",
+        "model_execution_time": 12.063472986221313,
+        "total_execution_time": 12.065232276916504,
+        "latency": 0.0017571449279785156
+    },
+    {
+        "system": "broker",
+        "timestamp": "2024-10-28 18:20:54",
+        "model_execution_time": 12.046417951583862,
+        "total_execution_time": 12.047130107879639,
+        "latency": 0.0007102489471435547
+    },
+    {
+        "system": "broker",
+        "timestamp": "2024-10-28 18:21:15",
+        "model_execution_time": 12.047371864318848,
+        "total_execution_time": 12.048087120056152,
+        "latency": 0.0007112026214599609
+    },
+    {
+        "system": "broker",
+        "timestamp": "2024-10-28 18:21:32",
+        "model_execution_time": 12.04197883605957,
+        "total_execution_time": 12.042484998703003,
+        "latency": 0.0005061626434326172
+    },
+    {
+        "system": "broker",
+        "timestamp": "2024-10-28 18:21:57",
+        "model_execution_time": 12.038226842880249,
+        "total_execution_time": 12.038700103759766,
+        "latency": 0.00047016143798828125
+    },
+    {
+        "system": "broker",
+        "timestamp": "2024-10-28 18:22:25",
+        "model_execution_time": 12.047007322311401,
+        "total_execution_time": 12.047383069992065,
+        "latency": 0.0003719329833984375
+    },
+    {
+        "system": "broker",
+        "timestamp": "2024-10-28 18:24:19",
+        "model_execution_time": 12.043791770935059,
+        "total_execution_time": 12.04405403137207,
+        "latency": 0.00025725364685058594
+    },
+    {
+        "system": "broker",
+        "timestamp": "2024-10-28 18:24:43",
+        "model_execution_time": 12.046660900115967,
+        "total_execution_time": 12.04718804359436,
+        "latency": 0.0005249977111816406
+    },
+    {
+        "system": "broker",
+        "timestamp": "2024-10-28 18:24:59",
+        "model_execution_time": 12.043437957763672,
+        "total_execution_time": 12.043889999389648,
+        "latency": 0.00044918060302734375
+    },
+    {
+        "system": "broker",
+        "timestamp": "2024-10-28 18:28:45",
+        "model_execution_time": 12.04808783531189,
+        "total_execution_time": 12.048592805862427,
+        "latency": 0.0005040168762207031
+    },
+    {
+        "system": "broker",
+        "timestamp": "2024-10-28 18:29:20",
+        "model_execution_time": 12.041998147964478,
+        "total_execution_time": 12.042259216308594,
+        "latency": 0.0002570152282714844
+    },
+    {
+        "system": "broker",
+        "timestamp": "2024-10-28 18:30:30",
+        "model_execution_time": 12.042588710784912,
+        "total_execution_time": 12.04341197013855,
+        "latency": 0.0008211135864257812
+    },
+    {
+        "system": "broker",
+        "timestamp": "2024-10-28 18:30:53",
+        "model_execution_time": 12.04334306716919,
+        "total_execution_time": 12.043800115585327,
+        "latency": 0.0004558563232421875
+    }
+]

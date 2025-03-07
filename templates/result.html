@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Diabetes Risk Assessment Result</title>
+</head>
+<style>
+    body {
+        background-color: #dadfdce2;
+        color: #aedcf6;
+        padding: 20px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        height: 100vh;
+    }
+
+    h1 {
+        color: #042e50b4;
+    }
+
+    button:hover {
+        background-color: #17232e;
+    }
+</style>
+    <body>
+        <h1 style="text-align: center; color: #065556;"> {{ result_message | safe }} </h1>
+        <div style="text-align: center;">
+            <button type="button" onclick="window.location.href='/'"
+                    style="background-color: #0c3c8a; color: #d0c5cea8; border-radius: 31px;";>
+                Go Back
+            </button>
+        </div>
+    </body>
+</html>
